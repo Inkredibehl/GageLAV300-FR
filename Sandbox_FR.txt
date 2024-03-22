@@ -1,0 +1,4 @@
+Sandbox_FR = {
+	Sandbox_DAMN_Spawns = "KI5 | Apparitions garanties",
+	Sandbox_DAMN_AlLAVSpawns = "Activer le préréglage '84 Cadillac Gage LAV-300 Apparitions",
+}

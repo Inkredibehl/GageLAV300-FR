@@ -1,0 +1,45 @@
+IG_UI_FR = {
+
+IGUI_VehicleName84gageV300apc = "'84 Cadillac Gage LAV-300 APC",
+IGUI_VehicleName84gageV300fsv = "'84 Cadillac Gage LAV-300 FSV",
+
+IGUI_VehiclePartSeatP1 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP2 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP3 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP4 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP5 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP6 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP7 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP8 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP9 = "Siège de l'équipage",
+IGUI_VehiclePartSeatP10 = "Siège de l'équipage",
+
+IGUI_VehiclePartWindowDriverHatch = "Trappe du conducteur",
+IGUI_VehiclePartWindowGunnerHatch = "Trappe du tireur",
+
+IGUI_VehiclePartDoorRearViewport = "Vue arrière de la porte",
+IGUI_VehiclePartTrunkDoorViewport = "Vue de la trappe du coffre",
+IGUI_VehiclePartDoorSideViewport = "Vue latérale de la porte",
+IGUI_VehiclePartV300fsvViewports = "Fenêtres de tourelle",
+
+IGUI_VehiclePartDoorSide = "Porte latérale",
+IGUI_VehiclePartDoorHatch = "Trappe arrière",
+
+IGUI_VehiclePartV300BrushGuards = "Protection avant",
+
+IGUI_VehiclePartV300FrontLightGuards = "Garde-phare avant",
+IGUI_VehiclePartV300RearLightGuards = "Garde-phare arrière",
+
+IGUI_VehiclePartV300SpareTireOne = "Pneu de secours",
+IGUI_VehiclePartV300SpareTireTwo = "Pneu de secours",
+
+IGUI_VehiclePartV300GasCanOne = "Bidon d'essence",
+IGUI_VehiclePartV300GasCanTwo = "Bidon d'essence",
+
+IGUI_VehiclePartV300Crates = "Rangement en caisse",
+IGUI_VehiclePartV300NettingLeft = "Rangement en filet à gauche",
+IGUI_VehiclePartV300NettingRight = "Rangement en filet à droite",
+IGUI_VehiclePartV300Trunk = "Rangement dans le coffre",
+IGUI_VehiclePartV300EngineVent = "Couvercle de ventilation du moteur",
+
+}
